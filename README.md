@@ -1,6 +1,16 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=DiegoAlessandro)
+<p align="left">
+  <a href="https://github.com/DiegoAlessandro/DiegoAlessandro/">
+    <img src="https://komarev.com/ghpvc/?username=DiegoAlessandro" alt="DiegoAlessandro" />
+  </a>
+  <a href="http://twitter.com/D10318C">
+    <img height="20" src="https://img.shields.io/twitter/follow/D10318C?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/DiegoAlessandro">
+    <img height="20" src="https://img.shields.io/github/followers/DiegoAlessandro?label=follow&logo=github&style=flat" />
+  </a>
+</p>
 <!--
 **DiegoAlessandro/DiegoAlessandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
