@@ -11,8 +11,8 @@
     <img height="20" src="https://img.shields.io/github/followers/DiegoAlessandro?label=follow&logo=github&style=flat" />
   </a>
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoAlessandro)](https://github.com/DiegoAlessandro/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?DiegoAlessandro=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **DiegoAlessandro/DiegoAlessandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
